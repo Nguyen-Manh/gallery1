@@ -1,3 +1,6 @@
+$(document).ready(function() {
+   $('.content a').fancybox();
+});
 $(function(){
 
 	'use strict';
